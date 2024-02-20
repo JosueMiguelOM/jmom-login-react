@@ -15,7 +15,7 @@ Proyecto de una página de login y registro básico desarrollado en React.
 ## Ejecución
 1. Abre una terminal en el proyecto
 2. Ejecuta el comando: `npm start`, este comando por defecto ejecutara el proyecto por el puerto `3000`.
-3. Ejecuta el comando `json-serve --watch data.json ` para ejecutar el Json-Server
+3. Ejecuta el comando `json-server --watch data.json --port 3001` para ejecutar el Json-Server en el puerto 3001.
 
 ## Uso
 1. Abre tu navegador e ingresa la ruta http://localhost:3000/. Esto abrirá la página de inicio de sesión de forma predeterminada.
